@@ -1,0 +1,14 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Code+Pro:900|Press+Start+2P);
+
+body{
+	font-family: 'Source Code Pro', sans-serif;
+}
+
+h1{
+	text-align: center;
+	font-size: 4em;
+}
+h2{
+	text-align: center;
+	color: #606060;
+}
