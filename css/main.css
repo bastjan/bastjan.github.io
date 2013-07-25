@@ -24,6 +24,9 @@ a{
 	color: darkgreen;
 	text-decoration: none;
 }
+a:hover{
+	color: green;
+}
 p{	
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -42,5 +45,6 @@ footer, .push{
 @media (max-width: 480px) { 
 	h1{
 		font-size: 3em;
+		padding-top: 20px;
 	}
 }
