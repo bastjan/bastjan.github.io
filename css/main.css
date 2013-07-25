@@ -38,3 +38,9 @@ footer, .push{
 	height: 40px;
 	width: 100%;
 }
+/* Phones */
+@media (max-width: 480px) { 
+	h1{
+		font-size: 3em;
+	}
+}
